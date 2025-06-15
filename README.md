@@ -58,6 +58,7 @@ The VM is isolated, but you can access it via port forwarding.
 1. Shut down the VM if it is running.
 2. Go to VirtualBox > VM Settings > Network > Advanced > Port Forwarding.
 3. Add a rule as follows:
+   
 | Field       | Value     |
 |-------------|-----------|
 | Protocol    | TCP       |
